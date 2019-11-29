@@ -1,5 +1,6 @@
 {
   "name": "gatsby-tinacms-netlify-prototype",
+  "version": "0.1.0", 
   "main": "index.js",
   "files": [
     "gatsby-browser.js",
